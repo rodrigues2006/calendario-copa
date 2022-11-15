@@ -18,9 +18,11 @@ margin-bottom: 4rem;
 }
 
 main{
-    border: 1px solid red;
     width: fit-content;
     margin-inline:auto ;
+    display: flex;
+    flex-direction:column ;
+    gap: 2rem;
 }
 
 h2{
